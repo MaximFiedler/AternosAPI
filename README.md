@@ -2,7 +2,6 @@
 
 
 # Get the newest servers from the Aternos server list using the API
---------------------------------------------------------------------
 
 
 ### EXAMPLE
@@ -25,3 +24,5 @@ abnormalmcSMP.aternos.me
 Lab_1.aternos.me:41616
 Astheticpixel.aternos.me:20784
 ```
+
+--------------------------------------------------------------------
