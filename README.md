@@ -10,7 +10,7 @@ int serverAmount = 10;
 for(String serverIP : AternosAPI.getNewestServersFromList(serverAmount)) {
   System.out.println(serverIP);
 }
-´´´
+```
 Output:
 ```
 speedrunheh.aternos.me
@@ -23,4 +23,4 @@ Astheticpixel.aternos.me:20784
 abnormalmcSMP.aternos.me
 Lab_1.aternos.me:41616
 Astheticpixel.aternos.me:20784
-´´´
+```
