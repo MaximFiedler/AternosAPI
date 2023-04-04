@@ -1,6 +1,7 @@
 package com.maximde.example;
 
 import com.maximde.aternosapi.AternosAPI;
+import com.maximde.aternosapi.AternosServer;
 
 public class Main {
     public static void main(String[] args) throws Exception {
