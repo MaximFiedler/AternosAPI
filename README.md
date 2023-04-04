@@ -2,6 +2,7 @@
 
 
 ## Get the newest servers from the Aternos server list using the API
+--------------------------------------------------------------------
 
 
 ### EXAMPLE
