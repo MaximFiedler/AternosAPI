@@ -4,7 +4,7 @@
 # Get the newest servers from the Aternos server list using the API
 
 
-### EXAMPLE
+### EXAMPLES
 ```java
 int serverAmount = 10;
 for(String serverIP : AternosAPI.getNewestServersFromList(serverAmount)) {
@@ -26,3 +26,24 @@ Astheticpixel.aternos.me:20784
 ```
 
 --------------------------------------------------------------------
+
+### How to use AternosServer class
+
+Get AternosServer object:
+```java
+AternosServer aternosServer = AternosAPI.getAternosServer(136468);
+```
+Now you can get the data from the specific aternos server:
+```java
+aternosServer.getOwner();
+aternosServer.getIp();
+aternosServer.getEdition();
+aternosServer.getDiscordInvite();
+```
+
+**getTitle()** and **getDescrition()** are not implemented yet! They will always return null!
+
+--------------------------------------------------------------------
+
+
+
