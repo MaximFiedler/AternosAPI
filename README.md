@@ -24,7 +24,9 @@ abnormalmcSMP.aternos.me
 Lab_1.aternos.me:41616
 Astheticpixel.aternos.me:20784
 ```
+
 --------------------------------------------------------------------
+
 ### How to use AternosServer class
 
 Get AternoServer object:
