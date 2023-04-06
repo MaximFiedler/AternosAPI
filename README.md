@@ -29,16 +29,16 @@ Astheticpixel.aternos.me:20784
 
 ### How to use AternosServer class
 
-Get AternoServer object:
+Get AternosServer object:
 ```java
 AternosServer aternosServer = AternosAPI.getAternosServer(136468);
 ```
 Now you can get the data from the specific aternos server:
 ```java
-server.getOwner();
-server.getIp();
-server.getEdition();
-server.getDiscordInvite();
+aternosServer.getOwner();
+aternosServer.getIp();
+aternosServer.getEdition();
+aternosServer.getDiscordInvite();
 ```
 
 **getTitle()** and **getDescrition()** are not implemented yet! They will always return null!
