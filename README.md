@@ -42,6 +42,7 @@ server.getDiscordInvite();
 ```
 
 **getTitle()** and **getDescrition()** are not implemented yet! They will always return null!
+
 --------------------------------------------------------------------
 
 
