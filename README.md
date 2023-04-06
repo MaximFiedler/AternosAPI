@@ -24,7 +24,7 @@ abnormalmcSMP.aternos.me
 Lab_1.aternos.me:41616
 Astheticpixel.aternos.me:20784
 ```
-
+--------------------------------------------------------------------
 ### How to use AternosServer class
 
 Get AternoServer object:
@@ -39,8 +39,8 @@ server.getEdition();
 server.getDiscordInvite();
 ```
 
-!! **getTitle()** and **getDescrition()** are not implemented yet! They will always return null! !!
-
-
-
+**getTitle()** and **getDescrition()** are not implemented yet! They will always return null!
 --------------------------------------------------------------------
+
+
+
