@@ -1,4 +1,4 @@
-package com.maximde.aternosapi;
+package maximde.aternosapi;
 
 import java.io.*;
 import java.net.URL;

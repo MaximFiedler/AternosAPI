@@ -1,11 +1,17 @@
-package com.maximde.example;
+package maximde.example;
 
-import com.maximde.aternosapi.AternosAPI;
-import com.maximde.aternosapi.AternosServer;
+
+import maximde.aternosapi.AternosAPI;
+import maximde.aternosapi.AternosServer;
 
 public class Main {
     public static void main(String[] args) throws Exception {
         printServers();
+        AternosServer server = AternosAPI.getAternosServer(136468);
+        server.getOwner();
+        server.getIp();
+        server.getEdition();
+        server.getDiscordInvite();
     }
 
     private static void printServers() throws Exception {

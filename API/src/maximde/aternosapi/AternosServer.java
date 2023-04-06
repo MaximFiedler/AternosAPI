@@ -1,4 +1,4 @@
-package com.maximde.aternosapi;
+package maximde.aternosapi;
 
 public class AternosServer {
     private String ip;
