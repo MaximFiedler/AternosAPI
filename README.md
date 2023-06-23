@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/MaximFiedler/AternosAPI/blob/master/LICENSE"><img src="https://img.shields.io/github/license/MaximFiedler/AternosAPI.svg" alt="License"></a>  
+
 <a href="https://github.com/MaximFiedler/AternosAPI/releases"><img src="https://img.shields.io/github/v/tag/MaximFiedler/AternosAPI.svg" alt="Version"></a>  
 </p>
 
