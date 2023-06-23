@@ -1,3 +1,6 @@
+<a href="https://github.com/MaximFiedler/AternosAPI/blob/master/LICENSE"><img src="https://img.shields.io/github/license/MaximFiedler/AternosAPI.svg" alt="License"></a>  
+<a href="https://github.com/MaximFiedler/AternosAPI/releases"><img src="https://img.shields.io/github/v/tag/MaximFiedler/AternosAPI.svg" alt="Version"></a>  
+
 ![img](https://media.discordapp.net/attachments/1052241511795937381/1092801532573003787/Neues_Projekt_17_2.png?width=1439&height=576)
 
 
